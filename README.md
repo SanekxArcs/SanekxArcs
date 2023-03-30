@@ -1,9 +1,6 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>About me:
-
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> 
-🔭 I’m currently working on Solar Sense Krzysztof Gutter, solarsense.pl <br>🌱 I am a highly motivated Frontend developer with a passion for creating visually appealing and user-friendly web applications. I have experience with HTML, CSS, JavaScript, and popular frameworks such as React. I am always eager to learn new technologies and stay current with industry trends. I am a quick learner, a team player, and I am dedicated to delivering high-quality work on time. I love to refactor code and constantly learn new things in JS, and I find it rewarding to write code and see the results of my efforts.<br>💬 I am fluent in English, have a B2 level of proficiency in Polish, and am a native speaker of Ukrainian.<br>⚡ You can find more information about me on my website at oleksandr-dzisiak.netlify.app, and my projects can be found on my GitHub page at github.com/SanekxArcs. Please feel free to contact me at oleksandr.dzisiak@gmail.com or by phone at +48 735 145 620
-.<br> <br>
-[![](https://visitcount.itsvg.in/api?id=SanekxArcs&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+🔭 I’m currently working on Solar Sense Krzysztof Gutter, solarsense.pl <br>🌱 I am a highly motivated Frontend developer with a passion for creating visually appealing and user-friendly web applications. I have experience with HTML, CSS, JavaScript, and popular frameworks such as React. I am always eager to learn new technologies and stay current with industry trends. I am a quick learner, a team player, and I am dedicated to delivering high-quality work on time. I love to refactor code and constantly learn new things in JS, and I find it rewarding to write code and see the results of my efforts.<br>💬 I am fluent in English, have a B2 level of proficiency in Polish, and am a native speaker of Ukrainian.<br>⚡ You can find more information about me on my website at oleksandr-dzisiak.netlify.app, and my projects can be found on my GitHub page at github.com/SanekxArcs. Please feel free to contact me at oleksandr.dzisiak@gmail.com or by phone at +48 735 145 620.<br> <br>[![](https://visitcount.itsvg.in/api?id=SanekxArcs&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -16,20 +13,16 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
@@ -45,8 +38,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
@@ -59,8 +51,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 
 # 📊 GitHub Stats:
-
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=SanekxArcs&theme=react&hide_border=false) -->
 <p><img align="left" width="47%" height="150px" src="https://github-readme-stats.vercel.app/api?username=SanekxArcs&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="sanekxarcs" /></p>
 <p><img align="left" width="47%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanekxArcs&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="sanekxarcs" /></p>
 
