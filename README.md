@@ -16,4 +16,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=SanekxArcs&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SanekxArcs&icon=9&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SanekxArcs&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
