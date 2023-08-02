@@ -1,5 +1,5 @@
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>About me:
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> 
+## <picture><img src = "https://media.giphy.com/media/B2zSi59LPp7iMclz7Q/giphy.gif" width = 150px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width = 250px></picture> 
 🔭 I’m currently working on Solar Sense Krzysztof Gutter, solarsense.pl <br>🌱 I am a highly motivated Frontend developer with a passion for creating visually appealing and user-friendly web applications. I have experience with HTML, CSS, JavaScript, and popular frameworks such as React. I am always eager to learn new technologies and stay current with industry trends. I am a quick learner, a team player, and I am dedicated to delivering high-quality work on time. I love to refactor code and constantly learn new things in JS, and I find it rewarding to write code and see the results of my efforts.<br>💬 I am fluent in English, have a B2 level of proficiency in Polish, and am a native speaker of Ukrainian.<br>⚡ You can find more information about me on my website at oleksandr-dzisiak.netlify.app, and my projects can be found on my GitHub page at github.com/SanekxArcs. Please feel free to contact me at oleksandr.dzisiak@gmail.com or by phone at +48 735 145 620.<br> <br>[![](https://visitcount.itsvg.in/api?id=SanekxArcs&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
@@ -69,3 +69,5 @@
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)
+
+<picture><img align="center" src = "https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width = 150px></picture>
