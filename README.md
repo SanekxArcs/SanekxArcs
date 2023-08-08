@@ -3,7 +3,7 @@
 🔭 I’m currently working on Solar Sense Krzysztof Gutter, solarsense.pl <br>🌱 I am a highly motivated Frontend developer with a passion for creating visually appealing and user-friendly web applications. I have experience with HTML, CSS, JavaScript, and popular frameworks such as React. I am always eager to learn new technologies and stay current with industry trends. I am a quick learner, a team player, and I am dedicated to delivering high-quality work on time. I love to refactor code and constantly learn new things in JS, and I find it rewarding to write code and see the results of my efforts.<br>💬 I am fluent in English, have a B2 level of proficiency in Polish, and am a native speaker of Ukrainian.<br>⚡ You can find more information about me on my website at oleksandr-dzisiak.netlify.app, and my projects can be found on my GitHub page at github.com/SanekxArcs. Please feel free to contact me at oleksandr.dzisiak@gmail.com or by phone at +48 735 145 620.<br> <br>[![](https://visitcount.itsvg.in/api?id=SanekxArcs&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sanekx.arcs) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sanekx_arcs/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/od-/) 
@@ -50,11 +50,7 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 
-# 📊 GitHub Stats:
-<p><img align="left" width="47%" height="150px" src="https://github-readme-stats.vercel.app/api?username=SanekxArcs&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="sanekxarcs" /></p>
-<p><img align="left" width="47%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanekxArcs&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="sanekxarcs" /></p>
-
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SanekxArcs&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 # 🎮 Other:
