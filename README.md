@@ -1,7 +1,6 @@
 ## [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Oleksandr%20Dzisiak-nl-&animation=fadeIn&fontSize=90&desc=Frontend%20Developer&descSize=30)](https://o-d.netlify.app/)
 
 <div>
-  <p>🔭 I’m currently working on Solar Sense Krzysztof Gutter, solarsense.pl</p>
   <p>🌱 I am a highly motivated Frontend developer with a passion for creating visually appealing and user-friendly web applications. I have experience with HTML, CSS, JavaScript, and popular frameworks such as React. I am always eager to learn new technologies and stay current with industry trends. I am a quick learner, a team player, and I am dedicated to delivering high-quality work on time. I love to refactor code and constantly learn new things in JS, and I find it rewarding to write code and see the results of my efforts.</p>
   <p>💬 I am fluent in English, have a B2 level of proficiency in Polish, and am a native speaker of Ukrainian.</p>
   <p>⚡ You can find more information about me on my website at <b> o-d.netlify.app </b>, and my projects can be found on my GitHub page at <b>github.com/SanekxArcs</b> . Please feel free to contact me at <b> 📧 oleksandr.dzisiak@gmail.com</b> or by phone at <b>📲 +48735145620</b>.</p>
