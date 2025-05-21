@@ -5,10 +5,6 @@
   <p>⚡ Check out my portfolio at <b><a href="https://cv.o-d.dev/" target="_blank">o-d.dev</a></b>. You're already on my GitHub! Feel free to reach out.</p>
 </div>
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/od-/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sanekx_Arcs)
-
 # 💻 Tech Stack & Skills:
 
 <!-- Core Languages & Frameworks -->
