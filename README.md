@@ -38,3 +38,6 @@
 - Efficient Problem Solver (and simply very good!) 😉
 
 [![](https://visitcount.itsvg.in/api?id=SanekxArcs&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+![CodeWars Badge](https://www.codewars.com/users/SanekxArsc/badges/micro)
+
